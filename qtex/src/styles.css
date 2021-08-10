@@ -19,12 +19,38 @@
   
   /* Active/current link */
   .sidebar a.active {
-    background-color: #0e285a;
+    background-color: #001633;
     color: white;
   }
   h1 {
-    text-align:center;
-}
+    color: #ffab40;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    text-align: center;
+  }
+  h2, h3 {
+    color: #ffab40;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+  }
+  .problem-statement {
+    padding: 50px;
+    text-align: center;
+    background-color: #001633;
+    color: rgb(247, 245, 245);
+  }
+  .about-us {
+    padding: 50px;
+    text-align: center;
+    background-color: #001633;
+    color: rgb(247, 245, 245);
+  }
+  .partners {
+    padding: 50px;
+    text-align: center;
+    background-color: #001633;
+    color: rgb(247, 245, 245);
+  }
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -49,14 +75,31 @@ body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
   }
-  
-  .about-section {
-    padding: 50px;
-    text-align: center;
-    background-color: #474e5d;
-    color: white;
+  .btn-group button {
+    background-color: #001633; /* Green background */
+    border: 1px solid #001633; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
   }
   
+  .btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: #001633;
+  }
+
   .container {
     padding: 0 16px;
   }
@@ -69,6 +112,10 @@ body {
   
   .title {
     color: grey;
+  }
+
+  .para {
+    color: #ffffff;
   }
   
   body {
