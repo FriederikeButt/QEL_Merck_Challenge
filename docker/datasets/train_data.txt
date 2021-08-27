@@ -1,0 +1,58 @@
+0 injection_N improved_TV severe_ADJ musclepain_N
+0 injection_N improved_TV injection_N
+1 injection_N caused_TV throbbing_ADJ chestpain_N
+1 injection_N introduced_TV severe_ADJ chestpain_N
+1 injection_N introduced_TV throbbing_ADJ chestpain_N
+1 injection_N introduced_TV burning_ADJ chestpain_N
+1 injection_N worsened_TV chestpain_N
+1 injection_N worsened_TV severe_ADJ chestpain_N
+1 ibuprofen_N worsened_TV burning_ADJ musclepain_N
+1 ibuprofen_N worsened_TV throbbing_ADJ musclepain_N
+1 ibuprofen_N worsened_TV severe_ADJ musclepain_N
+1 ibuprofen_N worsened_TV dizziness_N
+1 ibuprofen_N worsened_TV severe_ADJ dizziness_N
+1 ibuprofen_N introduced_TV severe_ADJ chestpain_N
+1 ibuprofen_N introduced_TV chestpain_N
+1 ibuprofen_N introduced_TV burning_ADJ chestpain_N
+1 ibuprofen_N introduced_TV throbbing_ADJ chestpain_N
+0 injection_N solved_TV severe_ADJ dizziness_N
+0 injection_N solved_TV bloating_N
+0 aspirin_N improved_TV severe_ADJ musclepain_N
+0 aspirin_N solved_TV severe_ADJ musclepain_N
+0 aspirin_N improved_TV burning_ADJ musclepain_N
+0 aspirin_N solved_TV burning_ADJ musclepain_N
+1 aspirin_N caused_TV bloating_N
+1 aspirin_N caused_TV severe_ADJ chestpain_N
+1 aspirin_N caused_TV severe_ADJ dizziness_N
+1 aspirin_N caused_TV severe_ADJ bloating_N
+1 aspirin_N caused_TV burning_ADJ chestpain_N
+1 aspirin_N caused_TV burning_ADJ dizziness_N
+1 aspirin_N caused_TV burning_ADJ bloating_N
+1 aspirin_N caused_TV throbbing_ADJ chestpain_N
+1 aspirin_N caused_TV throbbing_ADJ dizziness_N
+1 aspirin_N worsened_TV chestpain_N
+1 aspirin_N worsened_TV dizziness_N
+1 aspirin_N worsened_TV bloating_N
+1 aspirin_N worsened_TV severe_ADJ chestpain_N
+1 aspirin_N worsened_TV severe_ADJ dizziness_N
+1 aspirin_N worsened_TV severe_ADJ bloating_N
+1 aspirin_N worsened_TV burning_ADJ chestpain_N
+1 aspirin_N worsened_TV burning_ADJ dizziness_N
+1 aspirin_N worsened_TV burning_ADJ bloating_N
+1 aspirin_N worsened_TV throbbing_ADJ chestpain_N
+1 aspirin_N worsened_TV throbbing_ADJ dizziness_N
+1 aspirin_N introduced_TV chestpain_N
+1 aspirin_N introduced_TV dizziness_N
+1 aspirin_N introduced_TV bloating_N
+1 aspirin_N introduced_TV severe_ADJ chestpain_N
+1 aspirin_N introduced_TV severe_ADJ dizziness_N
+1 aspirin_N introduced_TV severe_ADJ bloating_N
+1 aspirin_N introduced_TV burning_ADJ chestpain_N
+0 ibuprofen_N improved_TV throbbing_ADJ musclepain_N
+0 ibuprofen_N improved_TV severe_ADJ musclepain_N
+0 ibuprofen_N improved_TV bloating_N
+0 ibuprofen_N improved_TV severe_ADJ bloating_N
+0 ibuprofen_N improved_TV burning_ADJ bloating_N
+0 ibuprofen_N improved_TV bloating_N
+0 ibuprofen_N solved_TV bloating_N
+0 ibuprofen_N solved_TV injection_N
