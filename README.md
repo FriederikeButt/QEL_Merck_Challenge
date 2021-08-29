@@ -18,4 +18,8 @@ cd qtex
 
 
 
+<<<<<<< HEAD
 Step 4: For running Python code
+=======
+Step 4: For running Python code
+>>>>>>> b0e014161be74108d83634d93e055ddbbf121ed5
