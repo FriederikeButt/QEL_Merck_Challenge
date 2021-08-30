@@ -1,15 +1,15 @@
-pathlib==1.0.1
-time==1.7
-pickle==4.0
-numpy==1.20.3
-matplotlib==3.4.2
-matplitlib-inline==0.1.2
-qiskit==0.26.2
-qiskit-aer==0.8.2
-qiskit-aqua==0.9.1
-qiskit-ibqm-provider==0.13.1
-qiskit-ignis==0.6.0
-qiskit-terra==0.17.4
-discopy==0.3.5
-pytket==0.11.0
-pytket-qiskit==0.13.0
+pip install pathlib==1.0.1
+pip install time==1.7
+pip install pickle==4.0
+pip install numpy==1.20.3
+pip install matplotlib==3.4.2
+pip install matplitlib-inline==0.1.2
+pip install qiskit==0.26.2
+pip install qiskit-aer==0.8.2
+pip install qiskit-aqua==0.9.1
+pip install qiskit-ibqm-provider==0.13.1
+pip install qiskit-ignis==0.6.0
+pip install qiskit-terra==0.17.4
+pip install discopy==0.3.5
+pip install pytket==0.11.0
+pip install pytket-qiskit==0.13.0
