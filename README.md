@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QEL_Merck_Challenge
 
 <<<<<<< HEAD
@@ -22,3 +23,6 @@ Step 5: For running Python code Docker that is algorithm
 cd algorithm
 Build your docker image (If using visual studio right click command pallete docker image and select algorithm:latest) Note: You must have docker already installed) To check images run "docker images" command in your terminal If somethng is not working use sudo
 
+=======
+
+>>>>>>> b6e859a4bdf47363a07950475e5981f41bb1306f
